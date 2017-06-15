@@ -4,7 +4,7 @@ Tämä dokumentti pitää sisällään ohjeet Stenin hoitamista varten Stenin ys
 
 ## Ohjeet
 
-### Älä pese yli 60 asteessa ja silitä usein.
+### Älä pese yli 60 asteessa ja silitä usein
 <img src="img/pesu_60c.jpg" height="200px"/> <img src="img/silita.jpg" height="200px"/>
 
 ### Komppa hölmöyksiä
